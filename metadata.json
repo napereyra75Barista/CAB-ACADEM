@@ -1,0 +1,8 @@
+{
+  "name": "CAB Campus | Elite Barista Training",
+  "description": "The official digital learning campus for Centro Argentino de Baristas. Professional training for the specialty coffee industry.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
